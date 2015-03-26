@@ -1,15 +1,10 @@
 Detect_autoplay.js for Modernizr 2
 =========
 
-This is simply a version of detect_autoplay.js that can be used as a Modernizr 2 test (Modernizr 3 already has a test for autoplay).
-    
-    
-Settings
-----
-The acceptable delay value is set to 100ms.
+This is simply a version of detect_autoplay.js that can be used as a Modernizr 2 test (Modernizr 3 already has a test for [autoplay](https://github.com/Modernizr/Modernizr/blob/master/feature-detects/video/autoplay.js)).
 
 
-That's it. Thanks to the original author for all the real work - I just wrapped it up for Modenizr.
+That's it. Thanks to the original [author](https://github.com/knoxmodernmedia/detect_autoplay) for all the real work - I just wrapped it up for Modernizr 2.
 
 
 License
@@ -17,7 +12,7 @@ License
 
 The MIT License (MIT)
 
-Copyright (c) 2014 Knox Modern Media
+Copyright (c) 2015 Paul Chamberlain
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
