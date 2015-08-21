@@ -32,11 +32,11 @@
     setTimeout(function(){
         if(base64_test_video.paused){
             Modernizr.addTest('video-autoplay', function() {
-                return false;
+                return true;
             });
         } else {
             Modernizr.addTest('video-autoplay', function() {
-                return true;
+                return false;
             });
         }
         cleanUp();
